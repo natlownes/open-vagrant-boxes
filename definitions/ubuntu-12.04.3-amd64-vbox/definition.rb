@@ -37,6 +37,7 @@ Veewee::Session.declare({
     "chef.sh",
     "puppet.sh",
     "memory_swap_accounting.sh",
+    "docker.sh",
     "cleanup.sh"
   ],
   :postinstall_timeout => "10000"
